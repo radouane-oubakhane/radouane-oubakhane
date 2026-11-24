@@ -1,1 +1,1 @@
-![ASCII cosmic landscape](./ascii-art.svg)
+![Radouane Oubakhane](./ascii-art.svg)
